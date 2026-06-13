@@ -1,0 +1,9 @@
+{
+  "name": "audiofilter",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Chrome extension that automatically mutes audio when profanity appears in video subtitles.",
+  "scripts": {
+    "build": "./build.sh"
+  }
+}
