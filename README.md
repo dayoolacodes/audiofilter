@@ -14,7 +14,7 @@ Chrome extension that automatically mutes audio when profanity appears in video 
 ## Installation
 
 ### Chrome Web Store
-*(Coming soon)*
+[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/dgeckgomaomgbkfahedhnhaicabgkdgk)
 
 ### Load unpacked (developer)
 1. Go to `chrome://extensions`
