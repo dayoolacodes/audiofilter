@@ -232,6 +232,21 @@ nav {
 }
 .unmute-btn:hover { background: rgba(0,0,0,0.9); }
 .unmute-btn.playing { background: rgba(233,69,96,0.8); border-color: transparent; }
+.fullscreen-btn {
+  position: absolute;
+  bottom: 16px;
+  right: 120px;
+  display: flex;
+  align-items: center;
+  background: rgba(0,0,0,0.7);
+  color: white;
+  border: 1px solid rgba(255,255,255,0.3);
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.fullscreen-btn:hover { background: rgba(0,0,0,0.9); }
 .demo-credit {
   text-align: center;
   font-size: 0.75rem;
